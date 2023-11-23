@@ -1,0 +1,2 @@
+Set-ExecutionPolicy RemoteSigned
+for solving angular cli problems
